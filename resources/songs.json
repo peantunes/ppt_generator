@@ -1,0 +1,111 @@
+{
+    "idcatalogo": "38",
+    "dtcatalogo": {
+        "date": "2020-01-12 00:00:00",
+        "timezone_type": 3,
+        "timezone": "America\/New_York"
+    },
+    "nome": "Baptism of the Lord",
+    "linkslide": "https:\/\/docs.google.com\/presentation\/d\/1aKxHGEk0b0LMPdG826XweEIHNkHRetQS-1tytt6u2_g\/edit?usp=sharing",
+    "timestamp": "2019-01-10 04:21:11",
+    "musicas": [{
+        "idmusica": "39",
+        "titulo": "Because He lives",
+        "idautor": "11",
+        "autor_nome": "Jones",
+        "categoria": "Entrance",
+        "tom": "G",
+        "keywords": "God sent His son, they called Him, Jesus",
+        "link": "https:\/\/www.youtube.com\/watch?v=4M-zwE33zHA",
+        "ordem": "1",
+        "cifra": "[Verse 1]\r\n\r\nG                                  C     Cm\r\nGod sent His son, they called Him, Jesus;\r\n           G    Em              Am    D7\r\nHe came to love, heal and forgive;\r\n             G    G7        C       Cm\r\nHe lived and died to buy my pardon,\r\n         G        Em         Am       D        G\r\nAn empty grave is there to prove my Savior lives!\r\n\r\n\r\n[Chorus]\r\n\r\nD           G                  C      Cm\r\nBecause He lives, I can face tomorrow,\r\n           G     Em               Am D\r\nBecause He lives,   all fear is gone;\r\n          G     G7              C     Cm\r\nBecause I know    He holds the future,\r\n            G           Em\r\nand  life is worth the living,\r\nAm     D           G\r\nJust because He lives!\r\n\r\n\r\n[Verse 2]\r\n\r\nD            G               C   Cm\r\nHow sweet to hold a newborn baby,\r\n             G     Em             Am  D\r\nAnd feel the pride   and joy he gives;\r\n             G              C        Cm\r\nBut greater still the calm assurance\r\n               G       Em      Am      D         G\r\nThis child can face uncertain days because He Lives!\r\n\r\n\r\n[Chorus]\r\n\r\nD           G                  C      Cm\r\nBecause He lives, I can face tomorrow,\r\n           G     Em               Am D\r\nBecause He lives,   all fear is gone;\r\n          G     G7              C     Cm\r\nBecause I know    He holds the future,\r\n            G           Em\r\nand  life is worth the living,\r\nAm     D           G\r\nJust because He lives!\r\n\r\n\r\n[Verse 3]\r\n\r\nD             G                   C    Cm\r\nAnd then one day, I'll cross the river,\r\n                  G    Em            Am   D     \r\nI'll fight life's final    war with pain;\r\n             G                  C       Cm\r\nAnd then, as death gives way to vict'ry,\r\n             G         Em     Am        D       G\r\nI'll see the lights of glory and I'll know He lives!\r\n\r\n\r\n[Chorus]\r\n\r\nD           G                  C      Cm\r\nBecause He lives, I can face tomorrow,\r\n           G     Em               Am D\r\nBecause He lives,   all fear is gone;\r\n          G     G7              C     Cm\r\nBecause I know    He holds the future,\r\n            G           Em\r\nand  life is worth the living,\r\nAm     D           G\r\nJust because He lives!\r\n\r\n"
+    }, {
+        "idmusica": "101",
+        "titulo": "Kyrie Eleison",
+        "idautor": "11",
+        "autor_nome": "Jones",
+        "categoria": "Penitential act",
+        "tom": "G",
+        "keywords": "Kyrie Eleison",
+        "link": "",
+        "ordem": "2",
+        "cifra": "G       D\/F#    Em       C          Am7    G      Cm Bm Am G   C  D\r\nKyrie Eleison,  Kyrie  Eleison,     Ky-ri-ie      Ele-e-e-ison"
+    }, {
+        "idmusica": "38",
+        "titulo": "Gloria, Gloria, in excelcis Deo",
+        "idautor": "11",
+        "autor_nome": "Jones",
+        "categoria": "Glory",
+        "tom": "C",
+        "keywords": "Gloria, Gloria, in excelcis Deo",
+        "link": "",
+        "ordem": "3",
+        "cifra": "C        G  Am   F    C     G   (C)\r\nGloria, Gloria, in excelcis Deo\r\nC                   F\r\nGlory to God in the highest,\r\n        C                              G    F\r\nand on earth peace to people of good will.\r\n                      \r\nWe praise you, we bless you,\r\n                        G     C\r\nwe adore you, we glorify you,\r\n              F         G          C\r\nwe give you thanks for your great glory,\r\n\r\nLord God, Heavenly King,\r\n   F                G\r\nO God, almighty Father.\r\n                                 F\r\nLord Jesus Christ, Only Begotten Son,\r\n      C                            G     F\r\nLord God, Lamb of God, Son of the Father,\r\n                                                   G    C        \r\nyou take away the sins of the world, have mercy on us; \r\n                               F         G              C\r\nyou take away the sins of the world, receive our prayer;\r\n                                                     Dm    G\r\nyou are seated at the right hand of the Father, have mercy on us.\r\nC         F            C    G\r\nFor you alone are the Holy One;\r\nF                  G\r\nyou alone are the Lord.\r\n\r\n\r\nC                  F          G      C\r\nYou alone are the Most High, Jesus Christ,\r\n\r\n\r\nwith the Holy Spirit,\r\n\r\n                          F\r\nin the glory of God, the Father.\r\n   G\r\nAmen"
+    }, {
+        "idmusica": "40",
+        "titulo": "Aleluia (advent)",
+        "idautor": "11",
+        "autor_nome": "Jones",
+        "categoria": "Gospel Acclamation",
+        "tom": "E",
+        "keywords": "Aleluia",
+        "link": "",
+        "ordem": "4",
+        "cifra": "E    F#m A      E  B7  E\r\nAlleluia, a---lle-lui-a!\r\nE   F#m   A    E   B7  E\r\nAlleluia, a---lle-lui-a!\r\n\r\nC#m          G#m\r\nAny text here\r\nA                   B7\r\nOther line with text\r\n \r\nE   F#m   A    E  B7  E\r\nAlleluia, a---lle-lui-a!\r\nE   F#m    A   E   B7  E\r\nAlleluia, a---lle-lui-a!"
+    }, {
+        "idmusica": "70",
+        "titulo": "Everyday God",
+        "idautor": "11",
+        "autor_nome": "Jones",
+        "categoria": "Offertory",
+        "tom": "D",
+        "keywords": "Everyday God",
+        "link": "https:\/\/www.youtube.com\/watch?v=F1oNP4vaW_c",
+        "ordem": "5",
+        "cifra": "D                          A\r\nEarth's creator, Everyday God,\r\n        G     A    D\r\nLoving Maker, O Jesus,\r\n          Bm           F#m\r\nYou who shaped us, O Spirit,\r\n   G           A            D\r\nRecreate us, Come, be with us. \r\n\r\nD                         A\r\nIn your presence, Everyday God,\r\n        G     A    D\r\nWe are gathered, O Jesus,\r\n           Bm            F#m\r\nYou have called us, O Spirit,\r\n    G           A           D\r\nTo restore us, Come, be with us. \r\n\r\nLife of all lives, Everyday God,\r\nLove of all loves, O Jesus,\r\nHope of all hopes, O Spirit,\r\nLight of all lights, Come, be with us.\r\n\r\nIn our resting, Everyday God,\r\nIn our rising, O Jesus,\r\nIn our hoping, O Spirit,\r\nIn our waiting, Come, be with us.\r\n\r\nIn our dreaming, Everyday God, \r\nIn our daring, O Jesus, \r\nIn our searching, O Spirit,\r\nIn our sharing, Come, be with us. \r\n\r\nGod of laughter, Everyday God, \r\nGod of sorrow, O Jesus, \r\nHome and shelter, O Spirit, \r\nStrong and patient, Come, be with us.\r\n\r\nWay of freedom, Everyday God,\r\nStar of morning, O Jesus, \r\nTimeless healer, O Spirit, \r\nFlame eternal, Come, be with us.\r\n\r\nWord of gladness, Everyday God, \r\nWord of mercy, O Jesus, \r\nWord of friendship, O Spirit, \r\nWord of challenge, Come, be with us.\r\n\r\nGentle father, Everyday God,\r\nFaithful brother, O Jesus,\r\nTender sister, O Spirit.\r\nLoving mother, Come, be with us.\r\n\r\nOur beginning, Everyday God,\r\nOur unfolding, O Jesus, \r\nOur enduring, O Spirit,\r\nJourney's ending, Come, be with us.\r\n\r\nAlleluia, Everyday God,\r\nNow and always, O Jesus, \r\nAlleluia, O Spirit, \r\nThrough all ages, Come, be with us."
+    }, {
+        "idmusica": "52",
+        "titulo": "Holy, holy, holy",
+        "idautor": "19",
+        "autor_nome": "Bernadette Farrell",
+        "categoria": "Holy",
+        "tom": "D",
+        "keywords": "Holy, holy, holy, holy Lord, holy Lord, holy Lord God of Hosts",
+        "link": "",
+        "ordem": "6",
+        "cifra": "Dm     C      Dm   C      Bb    C    Dm  C    F\r\nHoly, holy, holy, holy Lord, holy Lord, holy Lord God of Hosts,\r\nBb                     C                   A7               D7    \r\nHeaven and earth are full of your glory. Hosanna in the highest.\r\n Gm   C   F  Dm   Gm   A7          Dm        \r\nHosanna, hosanna, hosanna in the highest.\r\n          C        Dm      C          Bb\r\nBlessed, blessed, blessed, blessed is he\r\n    C             F\r\nwho comes in the name,\r\n     C             F\r\nWho comes in the name of the Lord.\r\n Gm  C     F Dm    Gm  A            D7    \r\nHosanna, hosanna, hosanna in the highest\r\n Gm  C     F  Dm    Gm  A           Dm      \r\nHosanna, hosanna, hosanna in the highest\r\n "
+    }, {
+        "idmusica": "57",
+        "titulo": "Lamb of God",
+        "idautor": "11",
+        "autor_nome": "Jones",
+        "categoria": "Communion",
+        "tom": "E",
+        "keywords": "Lamb of God, you take away the sins of the world",
+        "link": "",
+        "ordem": "7",
+        "cifra": "Intro: E - B\/D# - E - A - A\/C# - A\/B\r\n\r\nE                  B\/D#         A      G#    C#m \r\nLamb of God, you take away the sins of the world,\r\nE\/B  AM7    B\/A   G#m7  E\/G# F#m7 A\/B \r\nhave mercy, have mercy on    us. \r\n\r\n\r\nE                  B\/D#         A       G#    C#m \r\nLamb of God, you take away the sins of the world,\r\nE\/B  AM7    B\/A   G#m7 E\/G# F#m7 A\/B  Bb\/C\r\nhave mercy, have mercy on   us. \r\n\r\nF                 C\/E      F\/A  Bb    A      Dm   Dm\/C\r\nLamb of God, you take away the sins of the world,\r\nBbM7 C\/Bb  Am7 Dm       Gm7  Bb\/C  F\r\nGrant us    peace,      grant us peace.\r\n"
+    }, {
+        "idmusica": "108",
+        "titulo": "My song is love unknown - discard",
+        "idautor": "11",
+        "autor_nome": "Jones",
+        "categoria": "Communion",
+        "tom": "D",
+        "keywords": "My song is love unknown",
+        "link": null,
+        "ordem": "8",
+        "cifra": "   D       A      G\r\nMy song is love unknown,\r\n   D        F#m     G\r\nMy Savior\u2019s love to me;\r\n     Em     F#m      Bm\r\nLove to the loveless shown,\r\n                E      A\r\nThat they might lovely be.\r\n  C      Em      G      Bm\r\nO who am I, that for my sake\r\n   D                       A         D\r\nMy Lord should take, frail flesh and die?\r\nChrist came from heaven's throne\r\nSalvation to bestow;\r\nBut people scorned, and none\r\nThe longed-for Christ would know:\r\nBut O! my Friend, my Friend indeed,\r\nWho at my need His life did spend.\r\nSometimes they strew His way,\r\nAnd His sweet praises sing;\r\nResounding all the way\r\nHosannas to their King:\r\nThen \u201cCrucify!\u201d is all their breath,\r\nAnd for His death they thirst and cry.\r\nThey rise, and needs will have\r\nMy dear Lord made away;\r\nA murderer they saved,\r\nThe Prince of life they slay,\r\nYet cheerful He to suffering goes,\r\nThat He His foes from thence might free.\r\nHere might I stay and sing,\r\nNo story so divine;\r\nNever was love, dear King!\r\nNever was grief like Thine.\r\nThis is my Friend, in Whose sweet praise\r\nI all my days could gladly spend.\r\n"
+    }, {
+        "idmusica": "107",
+        "titulo": "Walk With Me",
+        "idautor": "25",
+        "autor_nome": "Estelle White",
+        "categoria": "Final",
+        "tom": "D",
+        "keywords": "Walk with me oh my Lord",
+        "link": "",
+        "ordem": "9",
+        "cifra": "D \r\nWalk with me, oh my Lord,\r\n                                          A7 \r\nThrough the darkest night and brightest day\r\nG         A7\r\nBe at my side, oh Lord,\r\n                                 D \r\nHold my hand and guide me on my way. \r\n\r\nD              Bm\r\nSometimes the road seems long,\r\n    D         Bm \r\nMy energy is spent.\r\nD               Bm \r\nThen, Lord, I think of you\r\n     G            A7 \r\nAnd I am given strength \r\n\r\n\r\nStones often bar my path, \r\nAnd there are times I fall, \r\nBut you are always there \r\nTo help me when I call. \r\n\r\n\r\nJust as you calmed the wind \r\nAnd walked upon the sea \r\nConquer, my living Lord \r\nThe storms that threaten me. \r\n\r\n\r\nHelp me to pierce the mists \r\nThat cloud my heart and mind, \r\nSo that I shall not fear \r\nThe steepest mountain-side.\r\n\r\n\r\nAs once you healed the lame\r\nAnd gave sight to the blind\r\nHelp me when I'm downcast\r\nTo hold my head up high."
+    }]
+}
