@@ -41,7 +41,7 @@ if(strpos($url, 'sundaymass')) {
 
     $date = date('d/m/Y', $json_a['dtmissa']);
 }
-$slideGenerator->firstSlide($json_a["nome"].PHP_EOL.$date);
+$slideGenerator->firstSlide($json_a["nome"].PHP_EOL.$date, './resources/03_leitura_2.jpg');
 
 for ($m = 0; $m < count($songs); $m++) {
     $song = $songs[$m];
@@ -63,6 +63,6 @@ $oWriterPPTX->save(__DIR__ . "/generated/sample.pptx");
 // $oWriterODP = IOFactory::createWriter($objPHPPowerPoint, 'ODPresentation');
 // $oWriterODP->save(__DIR__ . "/generated/sample.odp");
 
-// header('location: http://appmissa.reidasnacoes.com/slide/generated/sample.pptx');
+header('location: http://appmissa.reidasnacoes.com/slide/generated/sample.pptx');
 
 ?>

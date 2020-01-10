@@ -18,22 +18,22 @@ class SlideGenerator {
     var $decoration;
     var $presentation;
 
-    public function firstSlide($title) {
+    public function firstSlide($title, $image) {
 
         $oSlide = $this->presentation->getActiveSlide();
         $shapeImage = $oSlide->createDrawingShape();
         $shapeImage->setName('backgroundImage')
                 ->setDescription('Description of the drawing')
-                ->setPath('./resources/image1.png')
-                ->setHeight(600) //600
-                ->setWidth(960) //960
-                ->setOffsetX(0)
-                ->setOffsetY(0);
+                ->setPath($image)
+                ->setHeight(640) //680
+                ->setWidth(1000) //960
+                ->setOffsetX(-20)
+                ->setOffsetY(-20);
 
 
         $shape = $oSlide->createRichTextShape();
-        $shape->setHeight(600) //600
-            ->setWidth(960) //960
+        $shape->setHeight(680) //680
+            // ->setWidth(960) //960
             ->setOffsetX(0)
             ->setOffsetY(0);
         $shape->getActiveParagraph()->getAlignment()->setHorizontal( Alignment::HORIZONTAL_CENTER )
@@ -49,24 +49,35 @@ class SlideGenerator {
         return $oSlide;
     }
 
+    var $clean_array = array(
+        '/[áàâãªä]/u'   =>   'a',
+        '/[íìîï]/u'     =>   'i',
+        '/[éèêë]/u'     =>   'e',
+        '/[óòôõºö]/u'   =>   'o',
+        '/[úùûü]/u'     =>   'u',
+        '/ç/'           =>   'c',
+        '/ñ/'           =>   'n',
+        '/ /'           =>   '_'
+    );
     public function genericDivision($title) {
 
         $oSlide = $this->presentation->createSlide();
         $shapeImage = $oSlide->createDrawingShape();
+        $image = preg_replace(array_keys($this->clean_array), array_values($this->clean_array), strtolower($title));
         $shapeImage->setName('backgroundImage')
                 ->setDescription('Description of the drawing')
-                ->setPath('./image1.png')
-                ->setHeight(600) //600
-                ->setWidth(960) //960
+                ->setPath("./resources/$image.jpg")
+                ->setHeight(680) //680
+                // ->setWidth(960) //960
                 ->setOffsetX(0)
                 ->setOffsetY(0);
 
 
         $shape = $oSlide->createRichTextShape();
-        $shape->setHeight(400) //600
+        $shape->setHeight(400) //680
             ->setWidth(800) //960
-            ->setOffsetX(150)
-            ->setOffsetY(80);
+            ->setOffsetX(130)
+            ->setOffsetY(40);
         $shape->getActiveParagraph()->getAlignment()->setHorizontal( Alignment::HORIZONTAL_RIGHT )
                                                 ->setVertical( Alignment::VERTICAL_TOP);
         $textRun = $shape->createTextRun($title);
@@ -85,14 +96,32 @@ class SlideGenerator {
         $slideList = array();
         for($i = 0; $i < count($slides); $i++) {
             $slideText = $slides[$i];
-            echo $slideText."\n\n";
+            // echo $slideText."\n\n";
             array_push($slideList, $this->createSlide($slideText));
         }
         return $slideList;
     }
     private function createSlide($text) {
-        
         $oSlide = $this->presentation->createSlide();
+        
+        $topImage = $oSlide->createDrawingShape();
+        $topImage->setName('top_song_image')
+                // ->setDescription('Description of the drawing')
+                ->setPath('./resources/song_image/top.jpg')
+                ->setWidth(141) //960
+                // ->setHeight(94) //680
+                ->setOffsetX(0)
+                ->setOffsetY(0);
+
+
+        $bottomImage = $oSlide->createDrawingShape();
+        $bottomImage->setName('bottom_song_image')
+                // ->setDescription('Description of the drawing')
+                ->setPath('./resources/song_image/bottom.jpg')
+                ->setWidth(141) //960
+                ->setOffsetX(790)
+                ->setOffsetY(510);
+
         $shape = $oSlide->createRichTextShape();
         $shape->setHeight(580) //600
             ->setWidth(940) //960
